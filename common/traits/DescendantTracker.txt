@@ -1,0 +1,14 @@
+descendant_tracker = {
+	index = 1
+	fame = yes
+
+	ruler_designer_cost = 0
+
+	inherit_chance = 100
+	birth = 0
+	random_creaction = 0
+
+	compatibility = {
+		descendant_tracker = 10
+	}
+}
