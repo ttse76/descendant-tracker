@@ -926,5 +926,6 @@
  #trait_child_of_concubine: "trait_child_of_concubine"
 
 # Descendant Tracker
+trait_descendant_tracker:0 "Descendant Tracker"
 trait_descendant_tracker_desc:0 "This character is a descendant of your original character."
 trait_descendant_tracker_character_desc:0 "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip] is a descendant of your original character"
