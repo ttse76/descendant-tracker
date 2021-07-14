@@ -9,7 +9,8 @@ descendant_tracker = {
 			desc = "gfx/interface/icons/traits/family_first.dds"
 		}
 	}
-	index = 1
+	index = 999
+	good = yes
 	fame = yes
 
 	ruler_designer_cost = 0

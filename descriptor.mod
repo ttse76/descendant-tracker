@@ -5,4 +5,4 @@ tags={
 	"Gameplay"
 }
 name="Descendant Tracker"
-supported_version="1.2.2"
+supported_version="*"
